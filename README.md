@@ -1,7 +1,7 @@
 
 
 <a href="https://www.linkedin.com/in/kadiyan/">
-  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://github.com/kadiradiyan/Git_GroupStudy/blob/master/src/download.png" />
+  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://github.com/kadiradiyan/kadiradiyan/blob/main/linkledin.png" />
 </a>
 
 </br>
@@ -33,6 +33,6 @@
 </p>
 <br>
 
-![snake gif](https://github.com/kadiradiyan/readme/blob/daeee2b3a739d8f391d87448e87de236c5481921/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/kadiradiyan/readme/blob/daeee2b3a739d8f391d87448e87de236c5481921/github-contribution-grid-snake.gif) -->
 
 
