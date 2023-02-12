@@ -33,6 +33,6 @@
 </p>
 <br>
 
-<!-- ![snake gif](https://github.com/kadiradiyan/readme/blob/daeee2b3a739d8f391d87448e87de236c5481921/github-contribution-grid-snake.gif) -->
+ ![snake gif](https://github.com/kadiradiyan/readme/blob/daeee2b3a739d8f391d87448e87de236c5481921/github-contribution-grid-snake.gif) 
 
 
