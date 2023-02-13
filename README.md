@@ -11,12 +11,12 @@
   
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
-    <li>🔭 I’m currently working as a SDET(Software Development Engineer In Test) </li> 
+    <li>🔭 I’m currently working as a SDET (Software Development Engineer In Test) </li> 
     <!-- <li>🧐 Studying for Oracle Certified Associate Exam.</li> -->
-    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/kadiradiyan">my portfolio website</a>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/kadiradiyan">my Github</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/kadiyan/">LinkedIn</a>.</li>
-     <li>📝 I regulary read articles on <a href="https://medium.com/search?q=Software+Developers">Medium</a>.</li> 
-    <li>💬 Ping me about <strong>Code review,Test Automation, CI/CD and AI/Cloud Computing stuff</strong>.</li>
+  <!--    <li>📝 I regulary read articles on <a href="https://medium.com/search?q=Software+Developers">Medium</a>.</li>  -->
+    <li>💬 Ping me about <strong>Code review, Test Automation, CI/CD and AI/Cloud Computing stuff.</strong>.</li>
     <li>📙 Check out my <a href="https://www.linkedin.com/in/kadiyan/">resume</a>.</li>
    <!-- <li>🎉 Fun Fact: I don't like .</li> -->
   </ul>
