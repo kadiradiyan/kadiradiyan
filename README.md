@@ -25,13 +25,13 @@
 </br>
 
 <!-- <a href="https://github.com/kadiradiyan/github-readme-stats"><img alt="Kadir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kadiradiyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-<br>
+ <!-- <br>
 <p align="center">
     <a href="https://github.com/kadiradiyan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kadiradiyan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<br>
+<br>-->
 
  <!--![snake gif](https://github.com/kadiradiyan/readme/blob/daeee2b3a739d8f391d87448e87de236c5481921/github-contribution-grid-snake.gif) -->
 
